@@ -1,0 +1,74 @@
+{
+    "Songs": [
+        {
+            "id": 1,
+            "name": "Ahange Gheri",
+            "url": ""
+        },
+        {
+            "id": 2,
+            "name": "Ey Jan",
+            "url": ""
+        },
+        {
+            "id": 3,
+            "name": "10:30 Shab",
+            "url": ""
+        },
+        {
+            "id": 4,
+            "name": "Ye Chize Taze",
+            "url": ""
+        },
+        {
+            "id": 5,
+            "name": "Chips",
+            "url": ""
+        },
+        {
+            "id": 6,
+            "name": "Chips (Remix)",
+            "url": ""
+        },
+        {
+            "id": 7,
+            "name": "Kale Pa",
+            "url": ""
+        },
+        {
+            "id": 8,
+            "name": "Por Energy",
+            "url": ""
+        },
+        {
+            "id": 9,
+            "name": "Shoma Begoo",
+            "url": ""
+        },
+        {
+            "id": 10,
+            "name": "Partener",
+            "url": ""
+        },
+        {
+            "id": 11,
+            "name": "Abie Asemoon",
+            "url": ""
+        },
+        {
+            "id": 12,
+            "name": "Amoo Hassan",
+            "url": ""
+        },
+        {
+            "id": 13,
+            "name": "Dotayi",
+            "url": ""
+        },
+        {
+            "id": 14,
+            "name": "Bye Bye",
+            "url": ""
+        }
+    ]
+}
